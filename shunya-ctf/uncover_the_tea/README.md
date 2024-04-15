@@ -1,4 +1,5 @@
 # Uncover the tea (shunya-ctf)
+- Difficulty - Medium
 
 ## Challenge
 
